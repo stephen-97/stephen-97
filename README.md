@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stephen-loiola-bastos-v1.netlify.app/](https://stephen-loiola-bastos-v1.netlify.app/)
 
-- 💬 Ask me about **React, React Native & Node JS**
+- 💬 Ask me about **Next JS, React, React Native*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
