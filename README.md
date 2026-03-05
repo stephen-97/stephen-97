@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Stephen</h1>
 <h3 align="left">A passionate Full Stack developer (Next JS & Node) from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://stephen-loiola-bastos-v1.netlify.app/](https://stephen-loiola-bastos-v1.netlify.app/)
-
-- 💬 Ask me about **Next JS, React, React Native*
+- 💬 Ask me about **Next JS, React, Nest*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
