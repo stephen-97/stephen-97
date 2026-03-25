@@ -8,5 +8,7 @@
 <a href="https://linkedin.com/in/stephen-loiola-bastos-04351814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen-loiola-bastos-04351814" height="30" width="40" /></a>
 </p>
 
+And yes, i love Next and accessibility...
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen-97&show_icons=true&locale=en&layout=compact" alt="stephen-97" /></p>
